@@ -1,0 +1,176 @@
+[
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\2DCycleGame.dir\\main.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\main.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\main.c",
+  "output": "CMakeFiles\\2DCycleGame.dir\\main.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src -external:IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rcore.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rcore.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src -external:IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rmodels.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rmodels.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src -external:IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rshapes.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rshapes.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src -external:IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rtext.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rtext.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src -external:IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rtextures.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\rtextures.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src -external:IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\utils.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\utils.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\utils.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\utils.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src -external:IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /Fo_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\raudio.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\raudio.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/olihb/Desktop/projects/2DCycleGame/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\include -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src -IC:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-build\\raylib\\external\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /W3 /Fo_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "C:\\Users\\olihb\\Desktop\\projects\\2DCycleGame\\out\\build\\x64-Debug\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+}
+]
