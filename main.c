@@ -150,7 +150,7 @@ Texture2D loadPlayerSpriteSheet()
 {
     const char* filename = "C:/Users/olihb/Desktop/projects/2DCycleGame/models/sprite_sheets/player1.png";
     Image image = LoadImage(filename);
-    ImageResize(&image, 1841 / 4, 2400 / 5); // Assuming 4 columns and 5 rows
+    ImageResize(&image, 1841 / 4 - 250, 2400 / 5 - 250); // Assuming 4 columns and 5 rows
 
     // Resize the image to fit the frames
     Texture2D spriteSheet = LoadTextureFromImage(image);
@@ -169,7 +169,7 @@ int main(void)
     player.position.x = (float)screenWidth / 2 + 50;
     player.position.y = (float)screenHeight / 2 + 50;
 
-    player.frameRec = (Rectangle){ 0, 0, spriteSheet.width / 5, spriteSheet.height / 4 };
+    player.frameRec = (Rectangle){ 15, 0, spriteSheet.width / 5 + 15, spriteSheet.height / 4};
     player.currentFrame = 0;
     player.framesCounter = 0;
 
@@ -214,8 +214,8 @@ int main(void)
         DrawTextureRec(mapTexture, (Rectangle) { player.position.x - camera.offset.x, player.position.y - camera.offset.y, screenWidth, screenHeight }, (Vector2) { (player.position.x - camera.offset.x + 20), (player.position.y - camera.offset.y + 20) }, WHITE);
         
         // Adjust the sprite frame based on the movement direction use this up on the movements part 
-        player.frameRec.x = player.currentFrame * player.frameRec.height + 120;
-        DrawTextureRec(spriteSheet, player.frameRec, (Vector2) { player.position.x - player.frameRec.width / 2 - (spriteSheet.width / 8) + 50, player.position.y - player.frameRec.height / 2 }, WHITE);
+        player.frameRec.x = player.currentFrame * player.frameRec.height - 5;
+        DrawTextureRec(spriteSheet, player.frameRec, (Vector2) { player.position.x - player.frameRec.width / 2 - (spriteSheet.width / 8) + 25, player.position.y - player.frameRec.height / 2 }, WHITE);
 
 
 
