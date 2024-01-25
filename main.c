@@ -205,9 +205,6 @@ int main(void)
         BeginMode2D(camera);
 
         DrawTextureRec(mapTexture, (Rectangle) { player.position.x - camera.offset.x, player.position.y - camera.offset.y, screenWidth, screenHeight }, (Vector2) { (player.position.x - camera.offset.x + 20), (player.position.y - camera.offset.y + 20) }, WHITE);
-        
-        // Adjust the sprite frame based on the movement direction use this up on the movements part 
-
         DrawTextureRec(spriteSheet, player.frameRec, (Vector2) { player.position.x - player.frameRec.width / 2 - (spriteSheet.width / 8) + 25, player.position.y - player.frameRec.height / 2 }, WHITE);
 
 
